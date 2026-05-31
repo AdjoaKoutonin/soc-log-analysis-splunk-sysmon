@@ -19,6 +19,7 @@ Test-NetConnection google.com -Port 443
 PowerShell established an HTTPS connection to Google on port 443.
 Sysmon Event ID 3 captured the network connection.
 Splunk successfully logged and displayed the event.
+images/Test-NetConnection_Activity performed.png
 
 # Screenshot:
 images/powershell-network-detection.png
