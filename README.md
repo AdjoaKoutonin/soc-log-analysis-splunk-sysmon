@@ -43,7 +43,7 @@ notepad.exe
 Sysmon Event ID 1 recorded process creation.
 Splunk displayed the executed process and parent process relationship.
 
-Screenshot:
+# Screenshot:
 images/process-creation-detection.png
 
 # 3. Failed Login Detection
